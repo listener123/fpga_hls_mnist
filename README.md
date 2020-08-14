@@ -4,3 +4,4 @@
 片上设置缓存区，temp_weight和temp_bias
 
 vivado2018.3
+测试 ultra96 v2
