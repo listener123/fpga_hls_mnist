@@ -5,3 +5,5 @@
 
 vivado2018.3
 测试 ultra96 v2
+
+借鉴：https://github.com/canteen-man/CNN_FPGA_ZYNQ_PYNQ
